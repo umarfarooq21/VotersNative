@@ -1,4 +1,4 @@
-# Liquid Glass MVVM App
+# Liquid Glass Design (MVVM) App
 
 A modern iOS application built with **SwiftUI** that follows Apple's latest **Liquid Glass Design** language and uses the **MVVM (Model-View-ViewModel)** architecture pattern for clean, scalable, and maintainable code.
 
