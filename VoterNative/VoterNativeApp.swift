@@ -11,7 +11,9 @@ import SwiftUI
 struct VoterNativeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                .environment(AppSession.shared)
+                .environment(AppThemeStore.shared)
         }
     }
 }
